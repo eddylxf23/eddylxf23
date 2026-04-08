@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Xuanfeng Li (李炫锋)
 
 [![GitHub followers](https://img.shields.io/github/followers/eddylxf23?label=Follow&style=social)](https://github.com/eddylxf23)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)]
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?hl=en&user=A9oAECwAAAAJ&view_op=list_works&gmla=AEk_c1ttA_uFAqkeY1rO6VfzqNXEzPXlB1v0Lgq_sPTW2j-MwtT7F0IZbMt40tJBkDI5UiDqMmMA_4c7tmrsJY37ql6CJZO6t3FUbTSLRQLRDIFZAGZZmvfUmUp-KyvIqYaPes7fd9hy4Q)
 
 I'm a Ph.D. candidate in Computer Science at **Southern University of Science and Technology (SUSTech)**, advised by Prof. Ke Tang. My research lies at the intersection of **data-driven optimization** and **machine learning**, with a focus on solving complex resource allocation problems under uncertainty.
 
